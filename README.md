@@ -9,7 +9,7 @@ put it in the dokuwiki/lib/plugins/
 
 syntax:
 
-<stopwatch>id</stopwatch> 
+\<stopwatch\>id\<\/stopwatch\> 
 
 id is required, or it will function oddly.
 
