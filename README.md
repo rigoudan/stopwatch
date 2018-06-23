@@ -1,7 +1,7 @@
 # stopwatch
 a stopwatch plugin for dokuwiki
 
-![effect](C:\dev\dokuwiki\plugin\stopwatch\effect.png)
+![effect](effect.png)
 
 ## Usage
 
