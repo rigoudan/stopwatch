@@ -1,0 +1,7 @@
+base   stopwatch
+author njj
+email  niejijing@qq.com
+date   2018-06-23
+name   Stopwatch Plugin
+desc   stopwatch
+url    https://www.dokuwiki.org/plugin:note
