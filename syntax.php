@@ -44,7 +44,7 @@ class syntax_plugin_stopwatch extends DokuWiki_Syntax_Plugin {
         switch ($state) {
 
           case DOKU_LEXER_ENTER : 
-			$watchid = trim(substr($match,11,-1));
+			$watchid = trim(substr($match,11));
 			return array($state, $watchid);     
  
           case DOKU_LEXER_UNMATCHED :
